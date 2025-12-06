@@ -459,16 +459,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   items:
-  - zanium
-  - zanium
-  - zanium
-  - zanium
-  - zanium
-  - zanium
-  - zanium
-  - zanium
-  - zanium
-  - zanium
+  - zanium1
+  - zanium2
+  - zanium3
+  - zanium4
+  - zanium5
+  - zanium6
+  - zanium7
+  - zanium8
+  - zanium9
+  - zanium10
 --- !u!135 &1228098533
 SphereCollider:
   m_ObjectHideFlags: 0
